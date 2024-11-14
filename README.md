@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepforce123)](https://github.com/deepforce123/github-readme-stats)
 <!--
 **deepforce123/deepforce123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
