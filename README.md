@@ -10,9 +10,9 @@ and internal tooling for tracking modernisation across the division.
 Outside work I maintain a couple of Discord bots that have been running in
 production for a few years:
 
-- [DuobotBot](link) - support tickets, fuzzy-matched auto responses and Steam
+- [DuobotBot](https://github.com/JT-Dev321/DuobotBot) - support tickets, fuzzy-matched auto responses and Steam
   account linking for a 60,000+ member community
-- [MPQuotaBot](link) - weekly quota tracking, strikes and rewards for a 35+
+- [MPQuotaBot](https://github.com/JT-Dev321/MPQuotaBot) - weekly quota tracking, strikes and rewards for a 35+
   person staff team
 
 **Languages:** Python, Java, C#, SQL, Bash
