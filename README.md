@@ -11,4 +11,4 @@ production for a few years:
 - [MPQuotaBot](https://github.com/JT-Dev321/MPQuotaBot) - weekly quota tracking, strikes and rewards for a 35+
   person staff team
 
-**Languages:** Python, Java, C#, SQL, Bash
+  Most of my programming experience is in **Python**
