@@ -1,17 +1,18 @@
-## Hi there 👋
+# Joe
 
-<!--[![Joe's GitHub stats](https://github-readme-stats-vert-omega-95.vercel.app/api?username=JT-Dev321)](https://github.com/JT-Dev321/github-readme-stats)
-<!--
-**deepforce123/deepforce123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (Software Engineering) student at the University of Sheffield,
+currently on a placement year as a software engineer at Nomura in London.
 
-Here are some ideas to get you started:
+At work I mostly touch data platforms: extending a Python ETL pipeline to write
+Apache Iceberg tables alongside Snowflake, dependency automation with Renovate,
+and internal tooling for tracking modernisation across the division.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside work I maintain a couple of Discord bots that have been running in
+production for a few years:
+
+- [DuobotBot](link) - support tickets, fuzzy-matched auto responses and Steam
+  account linking for a 60,000+ member community
+- [MPQuotaBot](link) - weekly quota tracking, strikes and rewards for a 35+
+  person staff team
+
+**Languages:** Python, Java, C#, SQL, Bash
